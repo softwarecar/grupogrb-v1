@@ -1,0 +1,168 @@
+.navbar{
+    background-color: white;
+}
+.collapse{
+    margin-right: 90px;
+}
+.logo-index{
+    width: 220px;
+    padding: 3px 0;
+    margin-left: 90px;
+}
+.icons-header{
+    margin: 10px 5px;
+    font-size: 26px;
+    padding-left: 15px;
+    color: rgba(36 39 83);
+}
+.text-somos{
+    margin-top: 60px !important;
+}
+.d-block {
+    width: 100%;
+    height: 680px;
+    object-fit: cover;
+}
+.img-fluid{
+    height: 60%;
+    object-fit: cover;
+    border-radius: 10px;
+    width: 450px;
+}
+.text-banner{
+    font-size: 24px;
+}
+.text-somos{
+    text-align: justify;
+}
+.nav-link {
+    color: rgba(222 112 43);
+    font-size: 18px;
+    padding-left: 25px !important;
+}
+.button-pys{
+    border-radius: 5px;
+    color: rgba(222 112 43);
+    border: none;
+    padding: 8px 8px;
+    font-size: 16px;
+}
+.button-pys:hover{
+    background-color: rgba(36 39 83) !important;
+}
+.nav-link:hover{
+    color: rgba(36 39 83);
+}
+.nav-link:hover:focus{
+    outline: none;
+}
+.titlepys{
+    padding: 30px 0;
+    font-size: 24px;
+    font-family: leixo;
+    src:url(leixo.ttf)
+}
+/* form */
+.form-control{
+    font-size: 14px;
+    padding: 15px;
+    border-radius: 2px;
+    color: black;
+    height: auto;
+}
+.logo-form{
+    width: 300px;
+}
+.text-pqr{
+     font-size: 20px;
+     margin-left: 15px;
+}
+.form-control:focus{
+    border: 1px solid black;
+    outline: none;
+    box-shadow: none;
+}
+.form-group{
+    padding: 15px;
+}
+.btn-dark{
+    margin-left: 14px;
+    margin-top: 14px;
+    background-color: rgba(36 39 83);
+}
+.img-form{
+    height: 480px;
+}
+.btn{
+    background-color: rgba(36 39 83);
+    margin-top: 15px;
+}
+.btn:hover{
+    background-color: rgba(222 112 42);
+}
+.topmargin-sm{
+    padding: 50px;
+}
+
+
+/* footer */
+
+.bg-gray{
+    background-color: rgb(36 39 83) ;
+}
+.text-para{
+    color: white;
+}
+.title-n-e{
+    font-family: leixo;
+     src: url(leixo.ttf);  
+     color: rgba(222 112 42);
+     margin-top: -6px;
+}
+.text-foooter{
+    color: white;
+    font-size: 18px;
+}
+.py-6{
+    padding-top: 1rem;
+    padding-bottom: 6rem;
+    margin-top: 8px;
+}
+.text-heading{
+     color: rgba(222 112 42);
+}
+.icon-people{
+    font-size: 25px;
+    padding-right: 10px;
+}
+.list-unstyled{
+    padding-left: 0;
+    list-style: none;
+    font-size: 14px;
+}
+.list-unstyled  a{
+    text-decoration: none;
+    color: white;
+}
+.list-unstyled  a:hover{
+    text-decoration: underline;
+    color: rgba(222 112 42);
+}
+.form-check-label{
+    padding: 36px;
+}
+.mb-4-footer{
+    color: black; 
+}
+.copy-right{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+.icons-footer{
+    font-size: 23px;
+    padding-right: 10px ;
+}
+.certificados{
+    width: 80px;
+}
