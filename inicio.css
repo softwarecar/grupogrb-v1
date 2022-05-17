@@ -31,14 +31,16 @@
 }
 .text-banner{
     font-size: 24px;
+    font-family: OpenSans-Italic;
 }
 .altura-img{
     padding: 6px 0;
 }
 .nav-link {
     color: rgba(222 112 43);
-    font-size: 18px;
+    font-size: 22px;
     padding-left: 25px !important;
+    font-family: OpenSans-Italic;
 }
 .button-pys{
     border-radius: 5px;
@@ -58,9 +60,9 @@
 }
 .titlepys{
     padding: 30px 0;
-    font-size: 24px;
-    font-family: leixo;
-    src:url(leixo.ttf)
+    font-size: 26px;
+    font-family: Opensans-Italic;
+    color: rgba(222 112 42);
 }
 /* form */
 .form-control{
@@ -95,7 +97,13 @@
 }
 .btn{
     background-color: rgba(36 39 83);
-    margin-top: 15px;
+    margin-top: -25px;
+    font-family: OpenSans-Italic;
+}
+.btn-destacos{
+    background-color: rgba(36 39 83);
+    margin-top: 25px;
+    font-family: OpenSans-Italic;
 }
 .btn:hover{
     background-color: rgba(222 112 42);
@@ -121,6 +129,7 @@
 .text-foooter{
     color: white;
     font-size: 15px;
+    ff
 }
 .py-6{
     padding-top: 1rem;
