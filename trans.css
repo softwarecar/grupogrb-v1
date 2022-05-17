@@ -165,3 +165,11 @@
 .certificados{
     width: 80px;
 }
+@media screen and (min-width:300px) {
+    .icon-menu{
+        font-size: 32px;
+    }
+    .collapse{
+        color: rgb(0 0 0 0.23) !important;
+    } 
+}

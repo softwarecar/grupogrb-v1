@@ -5,8 +5,8 @@
     margin-right: 90px;
 }
 .logo-index{
-    width: 220px;
-    padding: 3px 0;
+    width: 190px;
+    padding: 1px 0;
     margin-left: 90px;
 }
 .icons-header{
@@ -91,7 +91,7 @@
     background-color: rgba(36 39 83);
 }
 .img-form{
-    height: 480px;
+    height: 400px;
 }
 .btn{
     background-color: rgba(36 39 83);
@@ -120,7 +120,7 @@
 }
 .text-foooter{
     color: white;
-    font-size: 18px;
+    font-size: 15px;
 }
 .py-6{
     padding-top: 1rem;
@@ -164,4 +164,12 @@
 }
 .certificados{
     width: 80px;
+}
+@media screen and (min-width:300px) {
+    .icon-menu{
+        font-size: 32px;
+    }
+    .collapse{
+        color: rgb(0 0 0 0.23) !important;
+    } 
 }
