@@ -27,7 +27,7 @@
     height: 60%;
     object-fit: cover;
     border-radius: 10px;
-    width: 450px;
+    width: 400px;
 }
 .text-banner{
     font-size: 24px;
@@ -38,7 +38,7 @@
 }
 .nav-link {
     color: rgba(222 112 43);
-    font-size: 22px;
+    font-size: 20px;
     padding-left: 25px !important;
     font-family: OpenSans-Italic;
 }
@@ -78,6 +78,7 @@
 .text-pqr{
      font-size: 20px;
      margin-left: 15px;
+     font-family: Opensans-Italic;
 }
 .form-control:focus{
     border: 1px solid black;
@@ -86,6 +87,7 @@
 }
 .form-group{
     padding: 15px;
+    font-family: Opensans-Italic;
 }
 .btn-dark{
     margin-left: 14px;
@@ -97,7 +99,7 @@
 }
 .btn{
     background-color: rgba(36 39 83);
-    margin-top: -25px;
+    margin-top: 25px;
     font-family: OpenSans-Italic;
 }
 .btn-destacos{
@@ -121,15 +123,14 @@
     color: white;
 }
 .title-n-e{
-    font-family: leixo;
-     src: url(leixo.ttf);  
+     font-family: OpenSans-Italic; 
      color: rgba(222 112 42);
      margin-top: -6px;
+     font-style: 15px;
 }
 .text-foooter{
     color: white;
     font-size: 15px;
-    ff
 }
 .py-6{
     padding-top: 1rem;
