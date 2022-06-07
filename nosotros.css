@@ -1,3 +1,12 @@
+@font-face {
+    font-family: OpenSans-Italic;
+    src:url(img/Open_Sans/OpenSans-Italic.ttf);
+}
+
+body{
+  font-family: OpenSans-Italic;
+}
+
 .navbar{
     background-color: white;
 }
@@ -32,8 +41,6 @@
 .text-somos{
     text-align: justify;
     margin-top: 60px !important;
-    font-family: OpenSans-Italic;
-    src:url(OpenSans-Italic.ttf);
     font-size: 20px;
 }
 .nav-link {

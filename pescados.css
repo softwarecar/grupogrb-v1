@@ -1,3 +1,12 @@
+@font-face {
+    font-family: OpenSans-Italic;
+    src:url(img/Open_Sans/OpenSans-Italic.ttf);
+}
+
+body{
+  font-family: OpenSans-Italic;
+}
+
 .navbar{
     background-color: white;
 }
