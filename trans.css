@@ -46,7 +46,7 @@ body{
 }
 .nav-link {
     color: rgba(222 112 43);
-    font-size: 18px;
+    font-size: 20px;
     padding-left: 25px !important;
 }
 .button-pys{
@@ -68,8 +68,7 @@ body{
 .titlepys{
     padding: 30px 0;
     font-size: 24px;
-    font-family: leixo;
-    src:url(leixo.ttf)
+    color: rgba(222 112 42);
 }
 /* form */
 .form-control{
@@ -122,10 +121,9 @@ body{
     color: white;
 }
 .title-n-e{
-    font-family: leixo;
-     src: url(leixo.ttf);  
      color: rgba(222 112 42);
      margin-top: -6px;
+     font-size: 24px;
 }
 .text-foooter{
     color: white;

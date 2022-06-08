@@ -40,7 +40,6 @@ body{
 }
 .text-banner{
     font-size: 24px;
-    font-family: OpenSans-Italic;
 }
 .altura-img{
     padding: 6px 0;
@@ -49,7 +48,6 @@ body{
     color: rgba(222 112 43);
     font-size: 20px;
     padding-left: 25px !important;
-    font-family: OpenSans-Italic;
 }
 .button-pys{
     border-radius: 5px;
@@ -69,8 +67,7 @@ body{
 }
 .titlepys{
     padding: 30px 0;
-    font-size: 26px;
-    font-family: Opensans-Italic;
+    font-size: 22px;
     color: rgba(222 112 42);
 }
 /* form */
@@ -87,7 +84,6 @@ body{
 .text-pqr{
      font-size: 20px;
      margin-left: 15px;
-     font-family: Opensans-Italic;
 }
 .form-control:focus{
     border: 1px solid black;
@@ -96,7 +92,6 @@ body{
 }
 .form-group{
     padding: 15px;
-    font-family: Opensans-Italic;
 }
 .btn-dark{
     margin-left: 14px;
@@ -109,7 +104,6 @@ body{
 .btn{
     background-color: rgba(36 39 83);
     margin-top: 25px;
-    font-family: OpenSans-Italic;
 }
 .btn-destacos{
     background-color: rgba(36 39 83);
@@ -135,7 +129,7 @@ body{
      font-family: OpenSans-Italic; 
      color: rgba(222 112 42);
      margin-top: -6px;
-     font-style: 15px;
+     font-size: 25px;
 }
 .text-foooter{
     color: white;
