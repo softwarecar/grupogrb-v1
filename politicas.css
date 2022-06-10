@@ -178,7 +178,8 @@ body{
 .certificados{
     width: 80px;
 }
-@media screen and (min-width:300px) {
+
+/* @media screen and (min-width:300px) { 
     .icon-menu{
         font-size: 32px;
     }
@@ -191,8 +192,8 @@ body{
         margin-top: 30px;
     }
 
-}
-@media screen and (max-width:1600px) {
+}*/
+/* @media screen and (max-width:1600px) { 
    
     .pdf{
         width: 100%;
@@ -201,4 +202,56 @@ body{
     }
 
 }
+*/
+
+
+@media (min-width: 576px) { 
+
+    .pdf{
+        width: 100%;
+        height: 150vh;
+        margin-top: 30px;
+    }
+    
+ }
+
+
+@media (min-width: 768px) { 
+    .pdf{
+        width: 100%;
+        height: 150vh;
+        margin-top: 30px;
+    }
+
+
+ }
+
+
+@media (min-width: 992px) { 
+    .pdf{
+        width: 100%;
+        height: 150vh;
+        margin-top: 30px;
+    }
+
+}
+
+
+@media (min-width: 1200px) {
+    .pdf{
+        width: 100%;
+        height: 150vh;
+        margin-top: 30px;
+    }
+    
+ }
+
+
+@media (min-width: 1400px) { 
+    .pdf{
+        width: 100%;
+        height: 150vh;
+        margin-top: 30px;
+    }
+ }
 
