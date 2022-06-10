@@ -187,9 +187,5 @@ body{
     .collapse{
         color: rgb(0 0 0 0.23) !important;
     }
-    .pdf{
-        width: 400px;
-        height: 500px;
-        margin-top: 30px;
-    } 
+
 }
