@@ -192,11 +192,11 @@ body{
     }
 
 }
-@media screen and (max-width:900px) { 
+@media screen and (min-width:900px) { 
 
     .pdf{
-        width: 400px;
-        height: 600px;
+        width: 100%;
+        height: 3gti00px;
         margin-top: 30px;
     }
 
