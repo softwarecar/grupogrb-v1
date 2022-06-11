@@ -178,29 +178,6 @@ body{
     width: 80px;
 }
 
- @media screen and (min-width:300px) { 
-    .icon-menu{
-        font-size: 32px;
-    }
-    .collapse{
-        color: rgb(0 0 0 0.23) !important;
-    }
-    .pdf{
-        width: 100%;
-        height: 150vh;
-        margin-top: 30px;
-    }
-
-}
-@media screen and (min-width:900px) { 
-
-    .pdf{
-        width: 100%;
-        height: 3gti00px;
-        margin-top: 30px;
-    }
-
-}
 
 
 
